@@ -1,0 +1,1 @@
+python3.10 /home/rishi/mouse-scroll-wheel-acceleration-userspace/main.py --exp 1.0 --multiplier 1.6
